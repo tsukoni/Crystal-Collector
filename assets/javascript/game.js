@@ -14,6 +14,7 @@ $("#jewel-1").val(rng1);
 $("#jewel-2").val(rng2);
 $("#jewel-3").val(rng3);
 $("#jewel-4").val(rng4);
+hsdhdhxh
 $("#jewel-1").on("click", function (){
         var num = $(this).attr("value");
         num = parseInt(num);
